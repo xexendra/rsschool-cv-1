@@ -2,8 +2,8 @@
 
 ## Contact Info
 * E-mail: nelly.kovalenko.a@gmail.com
-* Phone: +375 29 1508482
-* Telegram: @k_nelly
+* Telegram: @kovanelly
+* Diskord: Nelly(@kovanelly)
 
 ## Summary
 
