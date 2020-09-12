@@ -53,7 +53,7 @@ function cache(func) {
 
 ## English
 
-* Level: B1 Intermediate.
+* Level: A2+.
 * Have visited International House English Course.
 * Self-learning via online courses, videos, books and etc.
 
