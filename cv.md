@@ -7,7 +7,7 @@
 
 ## Summary
 
-* Electrical Design Engineer at Design Bureau of Precision Electronic Engineering since 2018.
+* Electrical Design Engineer at Design Bureau of Precision Electronic Engineering 08/2018 - 08/2020.
 * My goal is to become a Front End Developer. 
 * Like to learn something new and solve interesting and difficult tasks. 
 
