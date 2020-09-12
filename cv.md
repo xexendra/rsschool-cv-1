@@ -17,6 +17,10 @@
 * HTML
 * JavaScript
 * Git
+* React
+* Redux
+* Webpack
+* Sass
 
 ## Code Examples
 
